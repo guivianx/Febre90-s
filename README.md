@@ -1,0 +1,3 @@
+Meu primeiro site feito por totalmente por mim, baseado em um artirta que eu gosto, está bem simples tem apenas duas linguagens html e css. Estava estudando quando tive essa ideia e quis por em pratica para ver como ficaria, gostei bastante do resultado. Ao longo dos meses irei aprender novas linguagens e usalas em meus projetos. Segue nois !
+
+My first website made entirely by me, based on an artist that I like, it's very simple, it has only two languages, html and css. I was studying when I had this idea and wanted to put it into practice to see how it would look, I really liked the result. Over the months I will learn new languages ​​and use them in my projects
