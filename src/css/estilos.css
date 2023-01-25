@@ -17,6 +17,7 @@ body {
 
 
 .cabecalho {
+    max-width: 1440px;
     display: flex;
     justify-content: space-between;
     padding: 20px;
@@ -79,6 +80,7 @@ body {
 
 
 .container {
+    max-width: 1440px;
     padding: 20px;
     display: flex;
     margin: 0 auto;
@@ -93,6 +95,12 @@ body {
     font-size: 15px;
     width: 30%;
     text-align: left;
+}
+
+
+.sementinha {
+    overflow: hidden;
+    
 }
 
 .fotoPuma {
