@@ -1,0 +1,101 @@
+body {
+    font-family: 'Unbounded';
+}
+
+.fundo-da-imagem{
+    position: absolute;
+    z-index: -1;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.imagem-fundo {
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 0 auto;
+    align-items: center;
+
+}
+
+.botoes {
+    
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 30px 30px 30px 0px;
+    height: 100px;
+    
+}
+
+.cabecalho .botao-spotify {
+    width: 65px;
+}
+
+.cabecalho .botao-instagram {
+    width: 65px;
+}
+
+.botao-twitter {
+    width: 65px;
+}
+
+.nome {
+    color: #ffffff;
+    padding: 0px 0px 0px 15px;
+    transition: 0.5s all ease-in-out;
+}
+
+
+.nome:hover {
+ transform: scale(1.1);
+}
+
+
+
+
+.creditos {
+    padding: 0px 30px 0px 0px;
+    gap: 10px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    color: whitesmoke;
+}
+
+.insta {
+    transition: 0.2s;
+}
+.insta:hover {
+    color: #d5011d;
+}
+
+
+.container {
+    padding: 20px;
+    display: flex;
+    margin: 0 auto;
+    padding: 20px;
+    gap: 40px;
+    
+}
+
+.biografia {
+    color: #ffffff;
+    padding: 20px 20px 20px 0px;
+    font-size: 15px;
+    width: 30%;
+    text-align: left;
+}
+
+.fotoPuma {
+    width: 400px;
+    border: none;
+}
